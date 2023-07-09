@@ -1,0 +1,11 @@
+[
+  {"Linea": "Calzado", "Deporte": "01 Correr", "Venta": 2742593266},
+  {"Linea": "Textil", "Deporte": "01 Correr", "Venta": 606264863},
+  {"Linea": "Accesorios", "Deporte": "01 Correr", "Venta": 77293759},
+  {"Linea": "Calzado", "Deporte": "02 Entrenamiento", "Venta": 382785640},
+  {"Linea": "Textil", "Deporte": "02 Entrenamiento", "Venta": 1029193118},
+  {"Linea": "Accesorios", "Deporte": "02 Entrenamiento", "Venta": 438785006},
+  {"Linea": "Calzado", "Deporte": "03 Moda", "Venta": 798616121},
+  {"Linea": "Textil", "Deporte": "03 Moda", "Venta": 386188112},
+  {"Linea": "Accesorios", "Deporte": "03 Moda", "Venta": 97919753}
+]
